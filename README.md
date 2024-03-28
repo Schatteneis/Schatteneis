@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schatteneis
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: ilovepokemonse@gmail.com
 
 <!---
